@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_49\\db_first_ef_demo\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94275AC4-10BF-7E66-3545-D9135E0B07EB}|DB_First_EF_Demo\\DB_First_EF_Demo.csproj|solutionrelative:db_first_ef_demo\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpainCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\SpainCustomers.cshtml",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Views\\Northwind\\SpainCustomers.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\SpainCustomers.cshtml",
+              "RelativeToolTip": "DB_First_EF_Demo\\Views\\Northwind\\SpainCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T05:12:52.021Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\Order.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:54:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerOrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "RelativeToolTip": "DB_First_EF_Demo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:44:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRange.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\OrderRange.cshtml",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Views\\Northwind\\OrderRange.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\OrderRange.cshtml",
+              "RelativeToolTip": "DB_First_EF_Demo\\Views\\Northwind\\OrderRange.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T05:19:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsInCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "RelativeToolTip": "DB_First_EF_Demo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T04:23:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdCat.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\ProdCat.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Models\\ProdCat.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\ProdCat.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Models\\ProdCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:11:44.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\Customer.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:35:27.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "searchCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\searchCustomer.cshtml",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Views\\Northwind\\searchCustomer.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Views\\Northwind\\searchCustomer.cshtml",
+              "RelativeToolTip": "DB_First_EF_Demo\\Views\\Northwind\\searchCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:24:34.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DB_First_EF_Demo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T06:06:19.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpainCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\SpainCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Models\\SpainCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\SpainCustomerViewModel.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Models\\SpainCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:41:20.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindController.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Controllers\\NorthwindController.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Controllers\\NorthwindController.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Controllers\\NorthwindController.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Controllers\\NorthwindController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:01:20.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DB_First_EF_Demo\\Models\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_49\\DB_First_EF_Demo\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "DB_First_EF_Demo\\Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:49:43.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

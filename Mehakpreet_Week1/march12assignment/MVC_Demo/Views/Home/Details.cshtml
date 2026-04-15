@@ -1,0 +1,20 @@
+﻿@model MVC_Demo.Models.Employee;
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h1>@Model.EmpName</h1>
+<div>
+    <img src="@Model.ImageUrl" alt="@Model.EmpName" width="300" height="300"/>
+</div>
+
+<div>
+    <h2>Employee details</h2>
+    <p>
+      Lorem Ipsum simply dummy text of the printing and typesetting  
+    </p>
+    <h2>@Model.salary</h2>
+    <h2><a asp-action="collectionofobjectpassing">back to list</a></h2>
+</div>
+

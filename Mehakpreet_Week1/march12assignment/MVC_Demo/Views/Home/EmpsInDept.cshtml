@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MVC_Demo.Models.Employee>
+@{
+    ViewData["Title"] = "EmpsInDept";
+}
+
+<h1>EmpsInDept</h1>
+
+<table cellpadding="3" cellspacing="3" border="2">
+    <thead>
+    <tr>
+        <th>EMpID</th>
+        <th>EmpName</th>
+        <th>salary</th>
+        <th>Photo</th>
+        <th> Deptid</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var dept in Model)
+    {
+        <tr>
+            <td>@dept.EmployeeID</td>
+            <td>@dept.EmpName</td>
+            <td>@dept.salary</td>
+            <td><img src="@dept.ImageUrl" alt="@dept.EmpName" width="300" height="300" /></td>
+            <td>@dept.DeptID</td>
+        </tr>
+    }
+    </tbody>
+</table>

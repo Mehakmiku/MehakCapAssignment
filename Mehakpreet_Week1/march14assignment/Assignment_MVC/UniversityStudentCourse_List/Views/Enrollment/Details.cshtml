@@ -1,0 +1,40 @@
+﻿@model UniversityStudentCourse_List.Models.StudentDetailVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>Student Details</h2>
+
+<div class="card p-3 mb-4 shadow">
+    <h4>@Model.Name</h4>
+    <p><strong>Branch:</strong> @Model.Branch</p>
+</div>
+
+<h3>Courses</h3>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Title</th>
+            <th>Credits</th>
+            <th>Department</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var course in Model.Courses)
+        {
+            <tr>
+                <td>@course.Title</td>
+                <td>@course.Credits</td>
+                <td>@course.Department</td>
+                <td>@course.LatestGrade</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+

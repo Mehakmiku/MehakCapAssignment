@@ -1,0 +1,10 @@
+﻿namespace MVC_Demo.Models
+{
+    public class Employee
+    {
+        public int EmployeeID { set; get; }
+        public string? EmpName { set; get; }
+        public int salary { set;  get; }
+        public string? ImageUrl { set; get; }
+    }
+}

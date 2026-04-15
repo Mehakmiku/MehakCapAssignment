@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|c:\\users\\jandy\\onedrive\\desktop\\capgemini_wmk\\day_50\\layoutandsections\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2A9E46A-3592-4BAA-BA4F-2BCED1FCCC56}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:26:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:25:49.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:12:56.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Models\\Employee.cs",
+              "RelativeToolTip": "LayoutAndSections\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:53.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Models\\Department.cs",
+              "RelativeToolTip": "LayoutAndSections\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:09:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:07:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:28.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:07.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:03:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jandy\\OneDrive\\Desktop\\Capgemini_WMK\\Day_50\\LayoutAndSections\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:03:36.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

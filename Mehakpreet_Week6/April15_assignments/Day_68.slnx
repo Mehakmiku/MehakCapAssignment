@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BlobEncryptDecrypt/BlobEncryptDecrypt.csproj" />
+  <Project Path="securitykeyy/batch2app.csproj" />
+</Solution>
